@@ -2,7 +2,7 @@ package linked_list
 
 import "testing"
 
-//
+// go test -v . -test.run TestGetIntersectionNode
 func TestGetIntersectionNode(t *testing.T) {
 	l1 := GenListNode([]int{4, 1})
 	l2 := GenListNode([]int{})
