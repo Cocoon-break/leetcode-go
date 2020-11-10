@@ -13,7 +13,7 @@
    - [环型链表2（leetcode 142）](https://github.com/Cocoon-break/leetcode-go/blob/master/hot100/linked_list/leetcode_142.go)
    - [删除链表的倒数第N个节点（leetcode 19）](https://github.com/Cocoon-break/leetcode-go/blob/master/hot100/linked_list/leetcode_19.go)
    - [两数相加（leetcode 2）](https://github.com/Cocoon-break/leetcode-go/blob/master/hot100/linked_list/leetcode_2.go)
-   - [合并K个升序链表（leetcode 23）]((https://github.com/Cocoon-break/leetcode-go/blob/master/hot100/linked_list/leetcode_23.go))
+   - [合并K个升序链表（leetcode 23）](https://github.com/Cocoon-break/leetcode-go/blob/master/hot100/linked_list/leetcode_23.go)
 
 目前 两数相加/排序链表/合并K个升序链表 掌握不熟练
 
