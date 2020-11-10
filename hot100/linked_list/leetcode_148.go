@@ -25,8 +25,8 @@ func sortList(head *ListNode) *ListNode {
 	//断链
 	slow.Next = nil
 	//递归处理
-	right := sortList(head)
-	left := sortList(tmp)
+	left := sortList(head)
+	right := sortList(tmp)
 	//合并
 	result := mergeTwoLists(right, left)
 	return result
