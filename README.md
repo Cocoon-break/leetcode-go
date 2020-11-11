@@ -19,7 +19,7 @@
 
 2. 栈和队列
    - [最小栈（leetcode 155）](https://github.com/Cocoon-break/leetcode-go/blob/master/hot100/stack_queue/leetcode_155.go)
-   - 有效的括号（leetcode 20）
+   - [有效的括号（leetcode 20）](https://github.com/Cocoon-break/leetcode-go/blob/master/hot100/stack_queue/leetcode_20.go)
    - 二叉树的中序遍历（leetcode 94）
    - 每日温度（leetcode 739）
    - 字符串解码（leetcode 394）
