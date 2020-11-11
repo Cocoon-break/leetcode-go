@@ -18,7 +18,7 @@
 目前 两数相加/排序链表/合并K个升序链表 掌握不熟练
 
 2. 栈和队列
-   - 最小栈（leetcode 155）
+   - [最小栈（leetcode 155）](https://github.com/Cocoon-break/leetcode-go/blob/master/hot100/stack_queue/leetcode_155.go)
    - 有效的括号（leetcode 20）
    - 二叉树的中序遍历（leetcode 94）
    - 每日温度（leetcode 739）
@@ -54,5 +54,5 @@
 
 面试一般的内容
 1. 算法相关，大厂核心是动态规划,LRU
-2. 应用的底层理论只是，如：mysql的底层引擎，索引实现
+2. 应用的底层理论知识，如：mysql的底层引擎，索引实现
 3. 开发语言原理，如：golang的GC，底层调度
