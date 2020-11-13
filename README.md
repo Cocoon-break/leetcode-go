@@ -34,7 +34,9 @@
 7. 位运算
 8. 图
 
-#### 算法思想
+### 面试系列
+
+1. [LRU（leetcode 146）](https://github.com/Cocoon-break/leetcode-go/blob/master/interview/LRU/leetcode_146.go)
 
 
 

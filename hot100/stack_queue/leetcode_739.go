@@ -26,7 +26,7 @@ func dailyTemperatures(T []int) []int {
 	return result
 }
 
-// 利用栈来处理
+// 利用栈来处理,单调递减栈，https://github.com/labuladong/fucking-algorithm/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%B3%BB%E5%88%97/%E5%8D%95%E8%B0%83%E6%A0%88.md
 func dailyTemperatures2(T []int) []int {
 	// 初始化结果数组，默认值为0
 	res := make([]int, len(T))
