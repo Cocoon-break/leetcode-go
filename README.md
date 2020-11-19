@@ -37,7 +37,7 @@
 ### 面试系列
 
 1. [LRU（leetcode 146）](https://github.com/Cocoon-break/leetcode-go/blob/master/interview/LRU/leetcode_146.go)
-
+2. [LRU（leetcode 146-2）go 自带链表](https://github.com/Cocoon-break/leetcode-go/blob/master/interview/LRU/leetcode_146-2.go)
 
 
 
